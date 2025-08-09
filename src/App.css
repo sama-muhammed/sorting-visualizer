@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.array-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 350px;
+  margin: 20px auto;
+  width: 90%;
+  max-width: 900px;
+  border: 1px solid #ccc;
+}
+
+.array-bar {
+  background-color: teal;
+  width: 20px;
+  margin: 0 2px;
+  border-radius: 3px;
+}
+
+button,
+select,
+input[type="range"] {
+  margin: 10px 5px;
+  padding: 5px 10px;
+  font-size: 1rem;
+}
+
+.algorithm-info {
+  margin: 10px 0;
+}
