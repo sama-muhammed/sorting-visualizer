@@ -19,10 +19,11 @@ Simple, clean, and responsive web interface
 Designed for students learning computer science and algorithm fundamentals
 
 Algorithms Included
+
 🔹 Bubble Sort
 
 This algorithm repeatedly goes through the list, compares adjacent elements, and swaps them if they are in the wrong order.
-Each pass brings the largest element to the end of the array — similar to how bubbles rise to the top of water.
+Each pass brings the largest element to the end of the array similar to how bubbles rise to the top of water.
 Best for beginners but slow for large datasets (O(n²)).
 
 🔹 Insertion Sort
