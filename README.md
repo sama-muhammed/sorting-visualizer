@@ -1,99 +1,69 @@
 <img width="1752" height="880" alt="image" src="https://github.com/user-attachments/assets/9e0df731-bd33-400c-8a48-2bee0a30d28e" />
 
+# Getting Started with Create React App
 
-Sorting Algorithm Visualizer
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The Sorting Algorithm Visualizer is a simple and educational web application built with React.js that demonstrates how different sorting algorithms organize data step by step.
-Rather than complex animations, it focuses on showing the logic behind sorting, how numbers are compared, swapped, and arranged into order.
+## Available Scripts
 
-Features
+In the project directory, you can run:
 
-View how multiple sorting algorithms process and sort arrays
+### npm start
 
-Generate new random arrays instantly
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Observe each step of the sorting process in real time
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Simple, clean, and responsive web interface
+### npm test
 
-Designed for students learning computer science and algorithm fundamentals
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Algorithms Included
+### npm run build
 
-🔹 Bubble Sort
+Builds the app for production to the build folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-This algorithm repeatedly goes through the list, compares adjacent elements, and swaps them if they are in the wrong order.
-Each pass brings the largest element to the end of the array similar to how bubbles rise to the top of water.
-Best for beginners but slow for large datasets (O(n²)).
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-🔹 Insertion Sort
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Builds a sorted section one element at a time.
-It picks an element from the unsorted part and places it at the correct position in the sorted part.
-Efficient for small datasets or when the array is almost sorted.
+### npm run eject
 
-🔹 Selection Sort
+**Note: this is a one-way operation. Once you eject, you can't go back!**
 
-Divides the array into a sorted and unsorted part.
-It finds the smallest element in the unsorted part and moves it to its correct position.
-Simple to understand but not very efficient for large arrays.
+If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
 
-🔹 Merge Sort
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-A Divide and Conquer algorithm that splits the array into halves, sorts them, and then merges them together.
-It’s efficient with large datasets due to its O(n log n) time complexity.
+You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-🔹 Quick Sort
+## Learn More
 
-Another Divide and Conquer algorithm that chooses a pivot and partitions the array into smaller and larger elements.
-It then recursively sorts the partitions.
-Extremely fast on average, making it widely used in real-world systems.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-How It Works
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-When you run an algorithm, the application:
+### Code Splitting
 
-Generates a random array of numbers.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Executes the selected sorting algorithm step by step.
+### Analyzing the Bundle Size
 
-Displays the changes in order dynamically on the screen.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Finishes when all numbers are correctly sorted.
+### Making a Progressive Web App
 
-Each run helps users see how algorithms differ in their process and speed.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Tech Stack
+### Advanced Configuration
 
-Frontend: React.js, HTML, CSS, JavaScript
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-Tools: Node.js, npm
-
-Installation & Setup
-
-Follow these steps to run the project locally 
-
-Clone the repository
-
-git clone https://github.com/yourusername/sorting-visualizer.git
-
-
-Go to the project folder
-
-cd sorting-visualizer
-
-
-Install dependencies
-
-npm install
-
-
-Run the project
-
-npm start
-
-
-Open your browser and go to
+### Deployment
 http://localhost:3000
 
 Educational Purpose
