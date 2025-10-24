@@ -4,7 +4,7 @@
 Sorting Algorithm Visualizer
 
 The Sorting Algorithm Visualizer is a simple and educational web application built with React.js that demonstrates how different sorting algorithms organize data step by step.
-Rather than complex animations, it focuses on showing the logic behind sorting — how numbers are compared, swapped, and arranged into order.
+Rather than complex animations, it focuses on showing the logic behind sorting, how numbers are compared, swapped, and arranged into order.
 
 Features
 
