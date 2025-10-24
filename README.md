@@ -6,7 +6,7 @@ Sorting Algorithm Visualizer
 The Sorting Algorithm Visualizer is a simple and educational web application built with React.js that demonstrates how different sorting algorithms organize data step by step.
 Rather than complex animations, it focuses on showing the logic behind sorting — how numbers are compared, swapped, and arranged into order.
 
-🚀 Features
+Features
 
 View how multiple sorting algorithms process and sort arrays
 
@@ -18,7 +18,7 @@ Simple, clean, and responsive web interface
 
 Designed for students learning computer science and algorithm fundamentals
 
-🧠 Algorithms Included
+Algorithms Included
 🔹 Bubble Sort
 
 This algorithm repeatedly goes through the list, compares adjacent elements, and swaps them if they are in the wrong order.
@@ -48,7 +48,7 @@ Another Divide and Conquer algorithm that chooses a pivot and partitions the arr
 It then recursively sorts the partitions.
 Extremely fast on average, making it widely used in real-world systems.
 
-💡 How It Works
+How It Works
 
 When you run an algorithm, the application:
 
@@ -62,15 +62,15 @@ Finishes when all numbers are correctly sorted.
 
 Each run helps users see how algorithms differ in their process and speed.
 
-🛠️ Tech Stack
+Tech Stack
 
 Frontend: React.js, HTML, CSS, JavaScript
 
 Tools: Node.js, npm
 
-⚙️ Installation & Setup
+Installation & Setup
 
-Follow these steps to run the project locally 👇
+Follow these steps to run the project locally 
 
 Clone the repository
 
@@ -93,9 +93,9 @@ npm start
 
 
 Open your browser and go to
-👉 http://localhost:3000
+http://localhost:3000
 
-🎯 Educational Purpose
+Educational Purpose
 
 This project was developed to make understanding sorting algorithms easier and more interactive.
 It helps users visualize logic flow, step tracking, and algorithm efficiency — bridging the gap between code and concept.
