@@ -1,5 +1,4 @@
 <img width="1752" height="880" alt="image" src="https://github.com/user-attachments/assets/9e0df731-bd33-400c-8a48-2bee0a30d28e" />
-http://localhost:3000/sorting-visualizer
 
 # Sorting Algorithm Visualizer
 The Sorting Algorithm Visualizer is a simple and educational web application built with React.js that demonstrates how different sorting algorithms organize data step by step.
